@@ -1,2 +1,2 @@
 # PatientCare
-This is custom desktop application develop for maintainng Patients Detail
+This is custom desktop application developed for maintainng Patients Detail
